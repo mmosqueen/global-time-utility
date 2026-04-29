@@ -18,7 +18,7 @@ A powerful desktop application for world time conversion, timestamp generation, 
   - *Менеджер избранного:* Закрепляйте часто используемые города для быстрого доступа.
 - **📅 Date Converter:** Convert any date and time from one timezone to another (e.g., "What time will it be in Tokyo on May 1st at 14:00?").
   - *Конвертер дат:* Переводите любую дату и время из одного часового пояса в другой.
-- ** Modern UI:** Dark/Light theme support with smooth animations.
+- **Modern UI:** Dark/Light theme support with smooth animations.
   - *Современный интерфейс:* Поддержка тёмной и светлой тем с плавными анимациями.
 - **📋 Flexible Copying:** Copy timestamps in various formats (DD.MM.YYYY, ISO 8601, Unix, 12h AM/PM).
   - *Гибкое копирование:* Копируйте время в различных форматах.
