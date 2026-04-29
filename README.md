@@ -37,3 +37,25 @@ A powerful desktop application for world time conversion, timestamp generation, 
    ```bash
    git clone https://github.com/mmosqueen/global-time-utility.git
    cd global-time-utility
+
+### ⚙️ Configuration / Настройки
+The app saves your preferences (theme, language, favorites) in a local settings.json file. This file is ignored by Git to keep your personal data private.
+Приложение сохраняет ваши предпочтения (тема, язык, избранное) в локальном файле settings.json. Этот файл игнорируется Git, чтобы ваши личные данные оставались приватными.
+
+### 🛠 Tech Stack / Технологии
+Python 3.14
+CustomTkinter (Modern UI)
+Requests (API calls)
+PyTZ (Timezone handling)
+Pyperclip (Clipboard operations)
+
+### 📝 License / Лицензия
+This project is licensed under the MIT License - see the LICENSE file for details.
+Этот проект лицензирован под лицензией MIT — подробности см. в файле LICENSE.
+
+### 👩‍💻 Author / Автор
+Created by @m.mosqueen
+Telegram \ https://t.me/m_mosqueen | GitHub \ https://github.com/mmosqueen/
+
+If you like this project, please give it a star! ⭐
+Если вам понравился этот проект, пожалуйста, поставьте звезду! ⭐   
